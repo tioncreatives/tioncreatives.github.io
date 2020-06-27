@@ -10,7 +10,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Alden Zamora
-  pic: 1
+  pic: zam
   position: Co-Founder
   social:
     - title: twitter
@@ -32,8 +32,8 @@ people:
       url: #
 
 - name: Jethro Manuel
-  pic: 3
-  position: Junior Developer
+  pic: jet
+  position: Lead Developer
   social:
     - title: twitter
       url: #
